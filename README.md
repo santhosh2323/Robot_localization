@@ -1,13 +1,14 @@
 # Robot_localization
 The Repository contains workspace and algorithms to integrate imu and gps data from kitti/oxts dataset to EKF &amp; UKF node for benchmark analysis
 
-#INTEGRATION
-git clone https://github.com/santhosh2323/Robot_localization.git
-Inside the Robot_localization Folder find the compressed robot_localization.zip file
-Unzip and place it inside your ROS workspace/src folder
-compile your workspace using catkin_make
+# INTEGRATION
 
-RUNNING
+    git clone https://github.com/santhosh2323/Robot_localization.git
+    Inside the Robot_localization Folder find the compressed robot_localization.zip file
+    Unzip and place it inside your ROS workspace/src folder
+    compile your workspace using catkin_make
+
+# RUNNING
 
     TO RUN EKF:
       roslaunch robot_localization ekf_complete.launch
