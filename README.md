@@ -14,22 +14,22 @@ The Repository contains workspace and algorithms to integrate imu and gps data f
       roslaunch robot_localization ekf_complete.launch
       
       which contains --- rviz 
-                         ekf.launch - ekf node
-                         navsat.launch - navsat node
-                         rviz plotter.py -for plotting trajectory in rviz
-                         ground_truth_plotter.py - for plotting ground truth trajectory
-                         filtered_odom_plotter.py - for plotting filtered odom trajectory
+                         ekf.launch - for launching ekf node
+                         navsat.launch - for launching navsat node
+                         rviz plotter.py - for plotting ground_truth & filtered/odom trajectories in rviz
+                         ground_truth_plotter.py - node for plotting ground truth trajectory
+                         filtered_odom_plotter.py - node for plotting filtered odom trajectory
                          rosbag node - for playing rosbag of dataset
 
     TO RUN UKF:
       roslaunch robot_localization ukf_complete.launch
       
       which contains --- rviz 
-                         ukf.launch - ekf node
-                         navsat.launch - navsat node
-                         rviz plotter.py -for plotting trajectory in rviz
-                         ground_truth_plotter.py - for plotting ground truth trajectory
-                         filtered_odom_plotter.py - for plotting filtered odom trajectory
+                         ukf.launch - for launching ukf node
+                         navsat.launch - for launching navsat node
+                         rviz plotter.py -for plotting ground_truth & filtered/odom trajectories in rviz
+                         ground_truth_plotter.py - node for plotting ground truth trajectory
+                         filtered_odom_plotter.py - node for plotting filtered odom trajectory
                          rosbag node - for playing rosbag of dataset
                          
       
