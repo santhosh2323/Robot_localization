@@ -13,7 +13,7 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
     TO RUN EKF:
       roslaunch robot_localization ekf_complete.launch
       
-      which contains --- rviz 
+      which contains --- rviz - to launch rviz for visualizations
                          ekf.launch - for launching ekf node
                          navsat.launch - for launching navsat node
                          rviz plotter.py - for plotting ground_truth & filtered/odom trajectories in rviz
@@ -24,7 +24,7 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
     TO RUN UKF:
       roslaunch robot_localization ukf_complete.launch
       
-      which contains --- rviz 
+      which contains --- rviz - to launch rviz for visualizations
                          ukf.launch - for launching ukf node
                          navsat.launch - for launching navsat node
                          rviz plotter.py -for plotting ground_truth & filtered/odom trajectories in rviz
