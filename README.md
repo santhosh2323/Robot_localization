@@ -1,5 +1,5 @@
 # Robot_localization
-The Repository contains ros-package and algorithms to integrate imu and gps data from kitti/oxts dataset to EKF &amp; UKF node for benchmark analysis
+The Repository contains ros-package and algorithms to integrate imu and gps data from kitti/oxts dataset with EKF &amp; UKF node for benchmark analysis
 
 # INTEGRATION
 
