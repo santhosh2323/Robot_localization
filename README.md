@@ -34,16 +34,16 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
 # PARAMETERS TUNNING RESULT
  The pose estimation involves parameters tuning in EKF & UKF yaml file to get desired output.Below are the iterations result of tunning various parameters.
 
-ITERATION 1:
+# ITERATION 1:
 
 ![ekf_output_1_with_noise](https://github.com/user-attachments/assets/546dda26-8c47-493e-b593-36e1f375dfd0)
 
 
-ITERATION 2:
+# ITERATION 2:
 
 ![EKF_Output_2_with_noise](https://github.com/user-attachments/assets/c3caab17-2979-4c53-b25a-1c5997d87b23)
 
-ITERATION 3:
+# ITERATION 3:
 
 ![iteration1](https://github.com/user-attachments/assets/6a98eb68-9161-46c2-8163-5db0fe0692bd)
 
