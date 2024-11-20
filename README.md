@@ -32,7 +32,7 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
                          filtered_odom_plotter.py - node for plotting filtered odom trajectory
                          rosbag node - for playing rosbag of dataset
 # PARAMETERS TUNNING RESULT
-    The pose estimation involves parameters tuning in EKF & UKF yaml file to get desired output.Below are the iterations result of tunning various parameters.
+ The pose estimation involves parameters tuning in EKF & UKF yaml file to get desired output.Below are the iterations result of tunning various parameters.
 
 ITERATION 1:
 
