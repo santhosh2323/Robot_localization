@@ -31,6 +31,17 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
                          ground_truth_plotter.py - node for plotting ground truth trajectory
                          filtered_odom_plotter.py - node for plotting filtered odom trajectory
                          rosbag node - for playing rosbag of dataset
+
+# NODE GRAPH
+  # EKF
+  
+    ![EKF_node_graph](https://github.com/user-attachments/assets/424cccbc-a7f7-44fa-8d7e-ba43eec543d1)
+
+  # UKF
+
+  ![ukf_node_graph](https://github.com/user-attachments/assets/9a4beb29-e963-4e51-82aa-1bab4cd84646)
+  
+  
 # PARAMETERS TUNNING RESULT
  The pose estimation involves parameters tuning in EKF & UKF yaml file to get desired output.Below are the iterations result of tunning various parameters.
 
@@ -46,7 +57,7 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
 
 # ITERATION 3:
 
-![iteration1](https://github.com/user-attachments/assets/6a98eb68-9161-46c2-8163-5db0fe0692bd)
+![i3](https://github.com/user-attachments/assets/1e80433a-4a73-4433-b2d4-46f60e3a5de6)
 
 
 # ITERATION 4:
