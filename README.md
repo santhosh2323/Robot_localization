@@ -35,7 +35,8 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
 # NODE GRAPH
   # EKF
   
-    ![EKF_node_graph](https://github.com/user-attachments/assets/424cccbc-a7f7-44fa-8d7e-ba43eec543d1)
+   ![EKF_node_graph](https://github.com/user-attachments/assets/4c9b4293-a9a8-4dd8-9cc3-86602398a248)
+
 
   # UKF
 
