@@ -53,7 +53,7 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
 
 # ITERATION 2:
 
-![i2](https://github.com/user-attachments/assets/45e92b4d-c850-4e01-a05a-4c5175add64a)
+![2](https://github.com/user-attachments/assets/359a0660-64f4-4492-a61c-74cbefefc738)
 
 
 # ITERATION 3:
@@ -68,11 +68,10 @@ The Repository contains ros-package and algorithms to integrate imu and gps data
 
 # ITERATION 5:
 
-![2](https://github.com/user-attachments/assets/359a0660-64f4-4492-a61c-74cbefefc738)
+![i2](https://github.com/user-attachments/assets/45e92b4d-c850-4e01-a05a-4c5175add64a)
 
     
 # OUTPUT
-
 
 # EKF OUTPUT:
 
